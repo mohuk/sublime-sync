@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"EditorConfig",
+		"JSCS-Formatter",
+		"MarkdownEditing",
+		"Material Color Scheme",
+		"Package Control",
+		"Seti_UI",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint"
+	]
+}
