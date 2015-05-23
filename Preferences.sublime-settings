@@ -1,5 +1,9 @@
 {
-	"theme": "Seti.sublime-theme",
+	"Seti_no_bar_undertabs": true,
+	"Seti_no_blue_bar": true,
+	"Seti_orange_button": true,
+	"Seti_sb_small_padding": true,
+	"Seti_sb_tree_small": true,
 	"color_scheme": "Packages/User/SublimeLinter/Seti_orig (SL).tmTheme",
 	"font_size": 12,
 	"ignored_packages":
@@ -7,9 +11,5 @@
 		"Markdown",
 		"Vintage"
 	],
-	"Seti_sb_small_padding": true,
-	"Seti_sb_tree_small": true,
-  	"Seti_orange_button": true,
-  	"Seti_no_blue_bar": true,
-  	"Seti_no_bar_undertabs": true
+	"theme": "Seti.sublime-theme"
 }

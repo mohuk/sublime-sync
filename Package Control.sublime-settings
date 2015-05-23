@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
 		"EditorConfig",
 		"JSCS-Formatter",
 		"MarkdownEditing",
