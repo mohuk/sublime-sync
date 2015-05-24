@@ -4,13 +4,13 @@
 	// http://nodejs.org/#download
 	"node_path": {
 		"windows": "node.exe",
-		"linux": "/usr/bin/nodejs",
+		"linux": "/home/umair/.nvm/versions/node/v0.12.3/bin/node",
 		"osx": "/Users/mohammadumairkhan/.nvm/versions/node/v0.12.2/bin/node"
 	},
 
 	"jscs_path": {
 		"windows": "%APPDATA%/npm/node_modules/jscs/bin/jscs",
-		"linux": "/usr/bin/jscs",
+		"linux": "/home/umair/.nvm/versions/node/v0.12.3/bin/jscs",
 		"osx": "/Users/mohammadumairkhan/.nvm/versions/node/v0.12.2/bin/jscs"
 	},
 
@@ -20,5 +20,5 @@
 	"config_path": "",
 
 	// Automatically format when a file is saved.
-	"format_on_save": false
+	"format_on_save": true
 }
